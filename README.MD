@@ -1,20 +1,3 @@
-#### 登录注册模块
-![cmd-markdown-logo](imgs/1.gif)
-#### 日记列表
-![cmd-markdown-logo](imgs/2.gif)
-#### 日记创建与编辑
-![cmd-markdown-logo](imgs/3.gif)
-#### 日记详情
-![cmd-markdown-logo](imgs/4.gif)
-#### 我的分类
-![cmd-markdown-logo](imgs/5.gif)
-#### 过客列表
-![cmd-markdown-logo](imgs/6.gif)
-
-## 安利一下
-![download](imgs/wuji_download.png)
-
-## 吾记前端构建流程
 
 #### 本地环境准备
 
